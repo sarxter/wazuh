@@ -1,4 +1,5 @@
 INSTALACION Y PASOS A SEGUIR :
+
 PASO 1 :
 ![image](https://github.com/user-attachments/assets/0345b13b-07ae-4e84-b638-c417c3797342)
 
@@ -6,8 +7,9 @@ PASO 1 :
 PASO 2 :
 ![image](https://github.com/user-attachments/assets/9ac74464-82ef-4986-aa21-f5396d042e4a)
 
-
 PASO 3 :
+
+
 ![image](https://github.com/user-attachments/assets/295bd596-cf5f-490a-9741-3387cabde8e3)
 
 
